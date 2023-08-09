@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pearsw\\source\\repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj": {}
+    "C:\\Users\\Pearsw\\Source\\Repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pearsw\\source\\repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj": {
+    "C:\\Users\\Pearsw\\Source\\Repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pearsw\\source\\repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj",
+        "projectUniqueName": "C:\\Users\\Pearsw\\Source\\Repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj",
         "projectName": "MadLibsCodecademy",
-        "projectPath": "C:\\Users\\Pearsw\\source\\repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj",
+        "projectPath": "C:\\Users\\Pearsw\\Source\\Repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\MadLibsCodecademy.csproj",
         "packagesPath": "C:\\Users\\Pearsw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pearsw\\source\\repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\obj\\",
+        "outputPath": "C:\\Users\\Pearsw\\Source\\Repos\\MadLibsCodecademyTask\\MadLibsCodecademy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"

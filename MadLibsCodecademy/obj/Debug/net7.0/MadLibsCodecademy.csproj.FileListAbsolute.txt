@@ -1,0 +1,15 @@
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\bin\Debug\net7.0\MadLibsCodecademy.exe
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\bin\Debug\net7.0\MadLibsCodecademy.deps.json
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\bin\Debug\net7.0\MadLibsCodecademy.runtimeconfig.json
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\bin\Debug\net7.0\MadLibsCodecademy.dll
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\bin\Debug\net7.0\MadLibsCodecademy.pdb
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.csproj.AssemblyReference.cache
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.AssemblyInfoInputs.cache
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.AssemblyInfo.cs
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.csproj.CoreCompileInputs.cache
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.dll
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\refint\MadLibsCodecademy.dll
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.pdb
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\MadLibsCodecademy.genruntimeconfig.cache
+C:\Users\Pearsw\Source\Repos\MadLibsCodecademyTask\MadLibsCodecademy\obj\Debug\net7.0\ref\MadLibsCodecademy.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MadLibsCodecademy/1.0.0": {
+        "runtime": {
+          "MadLibsCodecademy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MadLibsCodecademy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
